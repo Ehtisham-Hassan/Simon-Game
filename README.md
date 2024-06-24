@@ -10,4 +10,4 @@ Game of Memory  : )
 7. The old score will be displayed below. 📊
 
 Developed by @Ehtisham-Hassan 👨‍💻
-No copyright on the code! 🆓
+No copyright on the code. 🆓
