@@ -1,3 +1,10 @@
+# Setup
+1. clone the repo
+2. open the index.html on search engine(google,firfox or etc)
+3. enjoy gaem
+
+
+
 # Simon-Game
 Game of Memory  : )
 
